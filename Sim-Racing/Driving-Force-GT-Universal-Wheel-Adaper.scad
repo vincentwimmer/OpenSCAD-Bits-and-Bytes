@@ -1,5 +1,5 @@
 $fn= 90;
-module WholeFuckinThing(){
+module WholeThing(){
 module holes(){
 for(n = [1 : 6])
 {
@@ -201,4 +201,4 @@ Connector();
 translate([0,0,7])
 rotate([180,0,0])
 color("LightSkyBlue")
-WholeFuckinThing();
+WholeThing();
